@@ -1,0 +1,3 @@
+*build
+*dist
+*pre_commit_aws_secret_regex.egg-info

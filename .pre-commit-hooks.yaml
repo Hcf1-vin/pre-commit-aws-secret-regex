@@ -1,0 +1,7 @@
+---
+- id: "aws-secret-regex"
+  name: "AWS Secret Regex"
+  description: "Looks for aws access keys and secrets"
+  language: "python"
+  language_version: "python3"
+  entry: "aws_secret_regex"

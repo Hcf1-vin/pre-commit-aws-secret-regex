@@ -1,0 +1,7 @@
+---
+default_stages: ["commit", "push", "manual"]
+repos:
+  - repo: "https://github.com/Hcf1-vin/pre-commit-aws-secret-regex"
+    rev: "0.0.1"
+    hooks:
+      - id: "aws-secret-regex"
