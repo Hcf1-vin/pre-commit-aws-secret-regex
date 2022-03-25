@@ -11,3 +11,9 @@ repos:
     hooks:
       - id: "aws-secret-regex"
 ```
+
+## Credit
+
+This project was inspired by the detect-aws-credentials pre-commit hook.
+
+* <https://github.com/pre-commit/pre-commit-hooks/blob/main/pre_commit_hooks/detect_aws_credentials.py>
